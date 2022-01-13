@@ -19,7 +19,7 @@ SECRET_KEY = env('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = env('DEBUG')
 
-ALLOWED_HOSTS = ['instgram1119.herokuapp.com']
+ALLOWED_HOSTS = ['instagram-clone-1119.herokuapp.com']
 
 
 # Application definition
